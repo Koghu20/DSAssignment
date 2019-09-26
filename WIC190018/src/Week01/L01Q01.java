@@ -23,8 +23,14 @@ public class L01Q01 {
      */
     public static void main(String[] args) {
         
-        System.out.print("HEllo");
-        // TODO code application logic here
+        System.out.println("My name is Koghulan Rajamanickam");
+        System.out.println("My matric number is WIC190018");
+        System.out.println("My address is Taman Desa Coalfields, 47000 Sungai Buloh ,Selangor");
+        System.out.println("My email is koghulanraja@gmail.com");
+        System.out.println("My phone number is 011334107324");
+    
+    
+    
     }
     
 }
